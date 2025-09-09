@@ -5,22 +5,22 @@ export const shippingData: ShippingData = {
   subtitle: "Shipping Services",
   priceTableTitle: "قائمة الأسعار",
   insideRegionTitle: "الشحن داخل المنوفية",
-  insideRegionPrice: "40 LE",
+  insideRegionPrice: "50LE",
   locations: [
     {
       id: "1",
       name: "القاهرة - الجيزة",
-      price: 75,
+      price: 70,
     },
     {
       id: "2",
       name: "القاهرة الجديده - اكتوبر وزايد- اسكندرية",
-      price: 80,
+      price: 75,
     },
     {
       id: "3",
       name: "البدرشين والحواديه وحلوان - القليوبية",
-      price: 80,
+      price: 75,
     },
     {
       id: "4",
@@ -30,17 +30,17 @@ export const shippingData: ShippingData = {
     {
       id: "5",
       name: "كفر الشيخ - البحيره - دمياط",
-      price: 80,
+      price: 70,
     },
     {
       id: "6",
       name: "بورسعيد - اسماعيلية - السويس",
-      price: 80,
+      price: 70,
     },
     {
       id: "7",
       name: "الفيوم - سوهاج - بني سويف - المنيا",
-      price: 100,
+      price: 80,
     },
     {
       id: "8",
@@ -50,12 +50,12 @@ export const shippingData: ShippingData = {
     {
       id: "9",
       name: "شمال وجنوب سيناء - الغردقة - مطروح",
-      price: 120,
+      price: 140,
     },
     {
       id: "10",
       name: "شرم الشيخ - البحر الأحمر - الوادي الجديد",
-      price: 120,
+      price: 140,
     },
   ],
   contact: {
